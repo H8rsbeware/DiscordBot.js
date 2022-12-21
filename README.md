@@ -1,6 +1,6 @@
 ## DiscordBot.js
 
-A bot made for the discord messaging platform, made using discord.js. It contains a variety of commands including calls to the Twitter api, Tenor, Covid updater, and nanopool.
+A bot made for the discord messaging platform, made using node and discord.js. It contains a variety of commands including calls to the Twitter api, Tenor, Covid updater, and nanopool.
 
 #### full command list and parameters
 
