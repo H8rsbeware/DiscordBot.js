@@ -1,0 +1,17 @@
+{
+  "name": "h8-bot",
+  "version": "1.0.0",
+  "description": "Bot for H8ing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Me",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "dotenv": "^8.2.0",
+    "node-fetch": "^2.6.1",
+    "twit": "^2.2.11"
+  }
+}
