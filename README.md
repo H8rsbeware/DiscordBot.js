@@ -24,8 +24,8 @@ A bot made for the discord messaging platform, made using discord.js. It contain
 - tweet (intSend) : tweets the inputed msg if you are me, to my twitter using twitter api 
 - help (page = 1) : returns commands the bot has, in pages from 1-4
 - latest : gets my latest tweet
-- weather : returns weather from openweathermap api for major cities
-- wallet : returns wallet information if you are me, from nanominer api
+- weather (city = "London") : returns weather from openweathermap api for major cities
+- wallet (curr): returns wallet information if you are me, from nanominer api
 
 
 
